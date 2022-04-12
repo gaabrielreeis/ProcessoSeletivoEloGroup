@@ -1,2 +1,2 @@
 # ProcessoSeletivoEloGroup
-Database e Notebooks utilizados no desenvolvimento do case.
+Notebooks utilizados no desenvolvimento do case e Database sanitizado, acrescido de novas tabelas resultantes de manipulações descritas nos Notebooks.
